@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-
-Primera modificación 
-Segunda modificación …..
-Tercera modificación 
-=======
 Primera modificación 
 Segunda modificación 
 Tercera modificación 
 cuarta modificación 
 quinta modificación 
 sexta modificación 
->>>>>>> 8a961be (Sexta modificacion)
 
