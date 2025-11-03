@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-=======
+
 Primera modificación 
 Segunda modificación …..
 Tercera modificación 
->>>>>>> 05c0d18 (Tercera)
+
